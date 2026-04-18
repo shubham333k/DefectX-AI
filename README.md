@@ -354,9 +354,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 
 **Project Maintainer**: AI/ML Engineer  
-**Email**: your.email@example.com  
-**LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**GitHub**: [@yourusername](https://github.com/yourusername)
+**Email**: shubhamjhanjhot333k@gmail.com  
+**LinkedIn**:[https://www.linkedin.com/in/shubham-kumar-565040253/]  
+**GitHub**: [@yourusername](https://github.com/shubham333k)
 
 ---
 
