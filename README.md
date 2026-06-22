@@ -263,28 +263,6 @@ DEFAULT_DEFECT_CLASSES = {
 }
 ```
 
----
-
-## 🎯 Resume Bullet Points (Copy-Paste Ready)
-
-### For AI/ML Engineer Resume:
-
-> **🤖 Explainable AI for Manufacturing Quality Control**
-> - Architected and deployed **DefectX AI**, a real-time manufacturing defect detection system using **YOLOv8** with **Grad-CAM explainability**, achieving **~25ms inference** on CPU and providing visual transparency into AI decision-making for quality assurance teams.
-
-> **🔍 Computer Vision & Deep Learning**
-> - Engineered end-to-end computer vision pipeline integrating **PyTorch**, **OpenCV**, and **Ultralytics YOLO** for multi-class defect detection (crack, scratch, dent, contamination), with **confidence calibration** and **severity classification** algorithms.
-
-> **🧠 Explainable AI (XAI) Implementation**
-> - Implemented **Gradient-weighted Class Activation Mapping (Grad-CAM)** with custom PyTorch hooks to generate attention heatmaps, enabling interpretable AI that explains **WHY** specific regions triggered defect classifications, improving model trust by 40% in user studies.
-
-> **📊 Full-Stack ML Deployment**
-> - Built interactive **Streamlit** dashboard with real-time analytics, batch processing, video analysis, and automated CSV/PNG report generation, deployed as production-ready quality control tool for manufacturing environments.
-
-> **⚡ Performance Optimization**
-> - Optimized model inference for CPU-only deployment through **quantization-aware** configurations and efficient OpenCV preprocessing, enabling real-time defect detection on standard hardware without GPU requirements.
-
----
 
 ## 🏆 Why This Project Matters
 
