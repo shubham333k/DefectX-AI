@@ -26,7 +26,7 @@ Unlike traditional defect detection systems that operate as "black boxes," Defec
 ---
 ## 📸 Dashboard Preview
 
-![DEFECTXI AI Dashboard]<img width="1365" height="654" alt="Screenshot 2026-07-03 002750" src="https://github.com/user-attachments/assets/f15b5b40-280d-4a17-bd2a-c3ec4d505cb4" />
+[DEFECTXI-AI Dashboard]<img width="1365" height="654" alt="Screenshot 2026-07-03 002750" src="https://github.com/user-attachments/assets/f15b5b40-280d-4a17-bd2a-c3ec4d505cb4" />
 )
 ---
 
