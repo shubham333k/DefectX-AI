@@ -92,8 +92,8 @@ DefectX AI/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/defectx-ai.git
-cd "DefectX AI"
+git clone https://github.com/shubham333k/DefectX-AI.git
+cd DefectX-AI
 
 # Create virtual environment
 python -m venv venv
@@ -334,7 +334,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Project Maintainer**: AI/ML Engineer  
 **Email**: shubhamjhanjhot333k@gmail.com  
 **LinkedIn**:[https://www.linkedin.com/in/shubham-kumar-565040253/]  
-**GitHub**: [@yourusername](https://github.com/shubham333k)
+**GitHub**: [@shubham333k](https://github.com/shubham333k)
 
 ---
 
