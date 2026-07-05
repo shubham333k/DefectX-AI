@@ -340,7 +340,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Project Maintainer**: AI/ML Engineer  
 **Email**: shubhamjhanjhot333k@gmail.com  
-**LinkedIn**:[https://www.linkedin.com/in/shubham-kumar-565040253/]  
+**LinkedIn**:[https://www.linkedin.com/in/shubhamkumar-aiml/]  
 **GitHub**: [@shubham333k](https://github.com/shubham333k)
 
 ---
